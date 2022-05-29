@@ -1,2 +1,4 @@
 # Amir_Majidov
-Mening darslarim
+<h1><code>Mening darslarim</code></h1>
+
+# Birinchi dars # 

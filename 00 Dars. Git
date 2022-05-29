@@ -1,0 +1,19 @@
+##################################################
+# 00 - DARS
+# Mavzu: Bash buyruqlari
+#
+# 01. date
+# 02. pwd
+# 03. cd 
+# 04. dir ll ls exa 
+# 05. cmod ugorwx
+# 06. touch -t 243243324
+# 07. mkdir 
+# 08. nvim i esc :q :w :wq
+# 09. head -n 5 
+# 10. tail -n 7
+# 11. cat 
+# 12. more " ", Enter q
+# 13. less " ", Enter q
+# 14. nano ctrl+o enter, ctrl+x
+# 15. nanoda yozish 

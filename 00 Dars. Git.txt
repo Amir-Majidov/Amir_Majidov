@@ -32,7 +32,5 @@
 # git push origin main (master)
 #   username: username
 #   password: token (ctrl+shift+v)
-#
-#
-#
-#
+
+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
